@@ -15,4 +15,9 @@ A lightweight Python HTTP server is used inside the Docker container to serve th
       *Dockerfile
            *src/
                 *index.html
+## Steps to Run the Project
+1. **Clone the repository**
+2. **Build the Docker image** - docker build -t html-server .
+3. **Run the Docker container***
+
 
