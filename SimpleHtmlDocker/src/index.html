@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Date and Time</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        #datetime {
+            text-align: center;
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <div id="datetime"></div>
+
+    <script>
+        function updateDateTime() {
+            const now = new Date();
+            const date = now.toLocaleDateString(); // e.g., 1/11/2026
+            const time = now.toLocaleTimeString(); // e.g., 15:45:30
+            document.getElementById('datetime').textContent = `${date} ${time}`;
+        }
+
+        // Update every second
+        setInterval(updateDateTime, 1000);
+
+        // Initial display
+        updateDateTime();
+    </script>
+</body>
+</html>
+
