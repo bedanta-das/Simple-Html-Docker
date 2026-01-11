@@ -34,6 +34,6 @@ A lightweight Python HTTP server is used inside the Docker container to serve th
 * Use Nginx instead of Python HTTP server
 * Add Docker Compose support
 
-## Webpage (images/Result.png)
+## Webpage https://github.com/bedanta-das/Simple-Html-Docker/blob/696c61fc0b119ee485b4942890beb1385f866bfc/Result.png
 
 
