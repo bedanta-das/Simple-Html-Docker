@@ -34,6 +34,6 @@ A lightweight Python HTTP server is used inside the Docker container to serve th
 * Use Nginx instead of Python HTTP server
 * Add Docker Compose support
 
-## Webpage (Result.png)
+## Webpage (images/Result.png)
 
 
