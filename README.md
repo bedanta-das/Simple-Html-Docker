@@ -26,5 +26,12 @@ A lightweight Python HTTP server is used inside the Docker container to serve th
 ## :white_check_mark: Expected Output
 *The webpage displays the current date and time
 *Time updates automatically every second
+## :dart: Learning Outcomes
+* Docker image creation
+* Running containers via Docker CLI
+* Port mapping in Docker
+## Future Enhancements
+* Use Nginx instead of Python HTTP server
+* Add Docker Compose support
 
 
