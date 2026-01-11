@@ -10,3 +10,4 @@ A lightweight Python HTTP server is used inside the Docker container to serve th
 * JavaScript
 * Docker
 * Python (for HTTP server)
+## :open_file_folder: Project Structure
