@@ -7,6 +7,6 @@ The application uses JavaScript to dynamically display the current date and time
 A lightweight Python HTTP server is used inside the Docker container to serve the HTML file.
 ## Technologies Used
 * HTML
-JavaScript
-Docker
-Python (for HTTP server)
+* JavaScript
+* Docker
+* Python (for HTTP server)
