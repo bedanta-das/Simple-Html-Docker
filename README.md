@@ -6,7 +6,7 @@ The purpose of this project is to learn the basics of Docker by containerizing a
 The application uses JavaScript to dynamically display the current date and time in the browser.
 A lightweight Python HTTP server is used inside the Docker container to serve the HTML file.
 ## Technologies Used
-i. HTML
-ii. JavaScript
-iii. Docker
-iv. Python (for HTTP server)
+* HTML
+JavaScript
+Docker
+Python (for HTTP server)
