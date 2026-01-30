@@ -13,8 +13,8 @@ A lightweight Python HTTP server is used inside the Docker container to serve th
 ## :open_file_folder: Project Structure
       *SimpleHtmlDocker/
                *Dockerfile
-                     *src/
-                          *index.html
+               *src/
+                    *index.html
 ## Steps to Run the Project
 1. **Clone the repository**
 2. **Build the Docker image** -
